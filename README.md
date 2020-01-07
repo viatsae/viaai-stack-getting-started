@@ -5,8 +5,6 @@ VIAAI Stack is an installation package for popular deep learning framework, incl
 
 ### Ubuntu 18.04 / 16.04 installation
 
-* PREVIEW: Please add "211.23.178.200 archive.via.com.tw" to /etc/hosts/
-
 ```bash
 wget http://archive.via.com.tw/viaai.sh && sudo chmod +x viaai.sh && \
 sudo ./viaai.sh && sudo apt-get install viaai-stack
